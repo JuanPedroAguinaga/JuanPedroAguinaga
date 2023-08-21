@@ -1,9 +1,14 @@
 ### Nice to meet you! I'm Juan! 👋
 
-👀 Henry's Data Career student, here you will find repositories about the different modules and other personal projects!
-In addition to repo files that I use to complement my learning.
-Don't hesitate to ask if you need anything!
+📊 Data Analyst | Business Intelligence (BI) 📈
+Passionate about turning data into insights and strategies. Exploring insights and making data-driven decisions.
 
-📫 I am interested in participating in new projects and growing my network of contacts!
+🔍 Skills: Data Extraction with SQL, In-depth Analysis, Persuasive Visualization, BI Tools
+📊 Specialized in: Data Transformation, Creating Dynamic Dashboards, Actionable Reporting
 
+📈 My aim is to turn data into knowledge to gain competitive advantages.
+🎯 Crafting interactive dashboards that tell stories and unveil hidden trends.
+📊 Communicating complex ideas through clear and impactful visualizations.
 
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/juan-pedro-aguinaga/)
+#Data #BI #Analytics #Visualization
