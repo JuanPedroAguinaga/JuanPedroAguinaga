@@ -10,5 +10,10 @@ Passionate about turning data into insights and strategies. Exploring insights a
 🎯 Crafting interactive dashboards that tell stories and unveil hidden trends.
 📊 Communicating complex ideas through clear and impactful visualizations.
 
+
+🔗 Personal Projects:
+   - [Data Analitycs](https://github.com/JuanPedroAguinaga/S-P500)
+   - [Data Science](https://github.com/JuanPedroAguinaga/Score_Movies_EDA_SistemaDeRecomendacion)
+   - [MLOps](https://github.com/JuanPedroAguinaga/sistema_recomendacion_mlops)
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/juan-pedro-aguinaga/)
 #Data #BI #Analytics #Visualization
