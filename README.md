@@ -15,6 +15,7 @@ Passionate about turning data into insights and strategies. Exploring insights a
    - [Data Analitycs](https://github.com/JuanPedroAguinaga/S-P500)
    - [Data Science](https://github.com/JuanPedroAguinaga/Score_Movies_EDA_SistemaDeRecomendacion)
    - [MLOps](https://github.com/JuanPedroAguinaga/sistema_recomendacion_mlops)
+   - [Dashboard-InteligenciaDeNegocios](https://github.com/JuanPedroAguinaga/MelPar/tree/main)
 
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/juan-pedro-aguinaga/)
 #Data #BI #Analytics #Visualization
