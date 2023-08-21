@@ -18,4 +18,5 @@ Passionate about turning data into insights and strategies. Exploring insights a
    - [Dashboard-InteligenciaDeNegocios](https://github.com/JuanPedroAguinaga/MelPar/tree/main)
 
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/juan-pedro-aguinaga/)
+
 #Data #BI #Analytics #Visualization
