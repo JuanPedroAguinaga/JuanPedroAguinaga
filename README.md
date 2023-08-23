@@ -16,6 +16,7 @@ Passionate about turning data into insights and strategies. Exploring insights a
    - [Data Science](https://github.com/JuanPedroAguinaga/Score_Movies_EDA_SistemaDeRecomendacion)
    - [MLOps](https://github.com/JuanPedroAguinaga/sistema_recomendacion_mlops)
    - [Dashboard-InteligenciaDeNegocios](https://github.com/JuanPedroAguinaga/MelPar/tree/main)
+   - [Dasboard-PersonalReport](https://github.com/JuanPedroAguinaga/PersonaReport/tree/main)
 
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/juan-pedro-aguinaga/)
 
